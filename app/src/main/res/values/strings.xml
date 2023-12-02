@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Iki Mart</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="cart">Keranjang</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">Favorite</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_favorite">Favorite</string>
+</resources>
